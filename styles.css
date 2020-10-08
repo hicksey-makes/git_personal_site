@@ -6,6 +6,18 @@ body{
 	margin: 0;
 }
 
+ul {
+	margin: 10px auto;
+}
+
+li {
+	margin: 5px auto;
+}
+
+.ejercisio {
+	margin: 10px auto;
+}
+
 .ancestral {
 	background-color: #74F2CE;
 }
@@ -16,14 +28,26 @@ body{
 
 .wrapper {
 	color: #F5F7DC;
-	width: 500px;
+	width: 600px;
 	margin: 0 auto;
 	padding: 15px 0;
 }
 
 .heading {
-	width: 500px;
+	width: 600px;
 	margin: 0 auto;
 	padding: 55px;
 	font-size: 27px;
+	text-align: center;
 }
+
+.btn {
+	background-color: red;
+	/* border: 0; */
+	padding: 7px;
+	font-weight: bold;
+}
+
+/* .sidestuff {
+	border: 1px solid blue;
+} */
