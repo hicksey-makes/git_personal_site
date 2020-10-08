@@ -5,3 +5,25 @@ html {
 body{
 	margin: 0;
 }
+
+.ancestral {
+	background-color: #74F2CE;
+}
+
+.medicine {
+	background-color: #32322C;
+}
+
+.wrapper {
+	color: #F5F7DC;
+	width: 500px;
+	margin: 0 auto;
+	padding: 15px 0;
+}
+
+.heading {
+	width: 500px;
+	margin: 0 auto;
+	padding: 55px;
+	font-size: 27px;
+}
